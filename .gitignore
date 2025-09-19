@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+[Bb]uild/
+
+# Angular build output
+Frontend/dist/
+Frontend/node_modules/
+
+# Logs
+*.log
+
+# Packages
+*.nupkg
+*.zip
+
+# Others
+*.dll
+*.exe

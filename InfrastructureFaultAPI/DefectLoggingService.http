@@ -1,0 +1,6 @@
+@DefectLoggingService_HostAddress = http://localhost:5247
+
+GET {{DefectLoggingService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
